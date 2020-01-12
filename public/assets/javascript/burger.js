@@ -1,4 +1,3 @@
-console.log("javascript");
 $(".create-form").on("submit", function() {
     event.preventDefault();
     console.log("click");
