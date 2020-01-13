@@ -7,7 +7,7 @@ $(".create-form").on("submit", function() {
     // then when back reload the page
 
     var burger_name = $("#burger").val();
-    console.log("burgername");
+    //console.log("burgername");
     $.post("/api/burgers", { "burger_name": burger_name }).then(function(data) {
         console.log(data);
         location.reload();
