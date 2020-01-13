@@ -4,7 +4,7 @@ This app lets users input the names of the burgers they'd like to eat.
 Whenever a user submits a burger's name, it is displayed on the left side of the page waiting to be devoured.
 Each of these burgers in the waiting area has a DEVOUR button which when clicked moves them to the list on the right side.
 ### App-Demo
-![app-demo]
+![app-demo](https://media.giphy.com/media/lSIutXm4He2lX8C1oz/giphy.gif)
 
 ## Getting Started
 #### These instructions will get you a copy of the project up and running on your local machine.
@@ -13,14 +13,15 @@ Each of these burgers in the waiting area has a DEVOUR button which when clicked
 
 
 ## Built With
-**Frontend**
+***Frontend***
 - Html
 - CSS
 - Bootstrap
 - Handlebars
 - Javascript
 - Jquery
-**Backend**
+
+***Backend***
 - Nodejs
 - Npmjs packages: 
 - **express** to handle the prompt with the users, if you want to know more about it https://www.npmjs.com/package/express
