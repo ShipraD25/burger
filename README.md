@@ -6,6 +6,9 @@ Each of these burgers in the waiting area has a DEVOUR button which when clicked
 ### App-Demo
 ![app-demo](https://media.giphy.com/media/lSIutXm4He2lX8C1oz/giphy.gif)
 
+### Link to the app
+https://agile-garden-99656.herokuapp.com/
+
 ## Getting Started
 #### These instructions will get you a copy of the project up and running on your local machine.
 1. Clone the repository
